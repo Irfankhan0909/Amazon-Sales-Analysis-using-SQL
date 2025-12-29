@@ -1,4 +1,5 @@
 Amazon Sales Analysis using SQL
+
 📌 Project Overview
 
 This project analyzes Amazon sales data using SQL to uncover key business insights related to revenue, profit, customers, products, regions, and payment methods.
