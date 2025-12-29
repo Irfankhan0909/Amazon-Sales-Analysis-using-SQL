@@ -7,6 +7,8 @@ The goal is to simulate a real-world sales analytics workflow using a structured
 
 🎯 Objectives
 
+The dataset was initially provided in CSV (Excel) format and was imported into a MySQL database, where relational tables were created to perform structured SQL-based analysis.
+
 Design a normalized sales database
 
 Analyze overall business performance using KPIs
